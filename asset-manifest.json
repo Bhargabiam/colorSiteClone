@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.40dc23fb.css",
+    "main.js": "/react-gh-pages/static/js/main.9083f434.js",
+    "static/media/logo.png": "/react-gh-pages/static/media/logo.e64a47a263defa4357ae.png",
+    "static/media/man.png": "/react-gh-pages/static/media/man.9912743f49930614a0ab.png",
+    "static/media/clock.png": "/react-gh-pages/static/media/clock.38297b07a125f32d8785.png",
+    "static/media/resume.png": "/react-gh-pages/static/media/resume.593ab0bfd6c59eccfabd.png",
+    "static/media/easy.png": "/react-gh-pages/static/media/easy.9005e4ccff8b2e7f9681.png",
+    "static/media/coding.png": "/react-gh-pages/static/media/coding.8fed8487f1ba81b460c2.png",
+    "static/media/figma.png": "/react-gh-pages/static/media/figma.72fbc535ebe253a5dbc4.png",
+    "static/media/cup-border.webp": "/react-gh-pages/static/media/cup-border.e80db13113ebb9454bd1.webp",
+    "static/media/up-arrow.svg": "/react-gh-pages/static/media/up-arrow.dd3ea51e1f9fc8ac0d6d08a258200dd5.svg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.40dc23fb.css.map": "/react-gh-pages/static/css/main.40dc23fb.css.map",
+    "main.9083f434.js.map": "/react-gh-pages/static/js/main.9083f434.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40dc23fb.css",
+    "static/js/main.9083f434.js"
+  ]
+}
